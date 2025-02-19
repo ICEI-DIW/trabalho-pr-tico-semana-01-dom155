@@ -3,11 +3,15 @@
 # Trabalho Prático - Semana-01
 
 ## Informações Gerais
-Nome: 
-Matricula: 
+Nome: JUAN CARLOS BARBOSA REIS
+Matricula: 887699
 
 ## Tela de inspeção com navegador
+![image](https://github.com/user-attachments/assets/c755f6a0-86c2-4efd-945c-19ca9a80374c)
 
 
 ## Tela de projeto no Replit
+
+![image](https://github.com/user-attachments/assets/5a4d2992-00aa-4a6f-b846-787b65c527be)
+
 
